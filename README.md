@@ -1,9 +1,8 @@
 # zstd-text
-### _Your Name <your.name@example.com>_
+### _Vee Satayamas <vsatayamas@gmail.com>_
 
-This is a project to do ... something.
+A macro for reading/writing UTF-8 text for Zstd stream 
 
 ## License
 
-Specify license here
-
+GPL-3
